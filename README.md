@@ -1,11 +1,9 @@
 # eslambda
 An example Chalice package to deploy an API Gateway/ Lambda proxy to the AWS Elasticsearch service.
 
-See: 
+For an entertaining and detailed tutorial on how to use this please see:
 
 https://www.freshlex.com/deploy_an_advanced_elasticsearch_proxy_with_lambda.html 
-
-for an entertaining and detailed tutorial on how to use this.
 
 For the impatient:
 
