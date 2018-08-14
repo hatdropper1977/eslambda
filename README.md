@@ -3,7 +3,7 @@ An example Chalice package to deploy an API Gateway/ Lambda proxy to the AWS Ela
 
 For an entertaining and detailed tutorial on how to use this please see:
 
-https://www.freshlex.com/deploy_an_advanced_elasticsearch_proxy_with_lambda.html 
+https:/john.soban.ski/deploy_an_advanced_elasticsearch_proxy_with_lambda.html 
 
 For the impatient:
 
